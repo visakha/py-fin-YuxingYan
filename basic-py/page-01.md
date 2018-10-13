@@ -7,4 +7,8 @@ r = 2
 import numpy as np
 rv = np.array([1,2,3])
 
+```
+>>>type(pv)
+   <class'numpy.ndarray'>
+```
 
